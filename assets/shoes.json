@@ -1,0 +1,74 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Nike Air Zoom Pegasus 39",
+      "brand": "Nike",
+      "price": 120.99,
+      "description": "The Nike Air Zoom Pegasus 39 is a top-tier running shoe designed for athletes and casual runners alike. Featuring advanced Air Zoom technology, it provides responsive cushioning, reducing impact and enhancing energy return. The breathable mesh upper ensures excellent ventilation, keeping your feet cool and dry even during intense runs. Its ergonomic design promotes a natural stride, while the durable rubber outsole offers superior traction on various surfaces. Whether you're training for a marathon or simply looking for everyday comfort, the Pegasus 39 is built to support your every step.",
+      "image": "assets/shoe1.png",
+      "size": [40, 41, 42, 43, 44],
+      "color": ["black", "white", "blue"]
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost 22",
+      "brand": "Adidas",
+      "price": 140.50,
+      "description": "The Adidas Ultraboost 22 is engineered to deliver unmatched comfort and performance, making it an ideal choice for runners and fitness enthusiasts. Its innovative Boost midsole technology absorbs impact and provides an incredible energy return, ensuring a smooth and effortless stride. The Primeknit upper adapts to your foot’s shape, offering a snug and supportive fit. Additionally, the Stretchweb outsole with Continental™ rubber ensures maximum grip on wet and dry surfaces. Whether for long-distance running or daily wear, the Ultraboost 22 redefines comfort with every step.",
+      "image": "assets/shoe2.png",
+      "size": [39, 40, 41, 42, 43],
+      "color": ["gray", "black", "red"]
+    },
+    {
+      "id": 3,
+      "name": "Puma RS-X",
+      "brand": "Puma",
+      "price": 110.75,
+      "description": "The Puma RS-X sneakers stand out with their futuristic design and high-performance comfort. Inspired by retro running shoes, this model features a lightweight EVA midsole that provides excellent cushioning and shock absorption. The durable rubber outsole ensures stability, making it perfect for all-day wear. With a bold color scheme and a stylish silhouette, the RS-X seamlessly blends fashion and functionality, making it an excellent choice for sneaker lovers who want to make a statement.",
+      "image": "assets/shoe3.png",
+      "size": [38, 39, 40, 41, 42],
+      "color": ["white", "blue", "green"]
+    },
+    {
+      "id": 4,
+      "name": "Reebok Nano X2",
+      "brand": "Reebok",
+      "price": 99.99,
+      "description": "The Reebok Nano X2 is designed for athletes who demand durability, stability, and comfort in their training shoes. Featuring a Flexweave upper, it offers breathability and targeted support where needed most. The Floatride Energy Foam midsole delivers lightweight cushioning, making it suitable for high-intensity workouts, weightlifting, and cross-training. The reinforced heel clip enhances stability, ensuring a locked-in feel during dynamic movements. Whether you're in the gym or on the track, the Nano X2 is built to help you push your limits.",
+      "image": "assets/shoe4.png",
+      "size": [40, 41, 42, 43, 44, 45],
+      "color": ["black", "gray", "yellow"]
+    },
+    {
+      "id": 5,
+      "name": "New Balance 574",
+      "brand": "New Balance",
+      "price": 89.95,
+      "description": "The New Balance 574 is an iconic lifestyle sneaker known for its timeless design and all-day comfort. Equipped with ENCAP midsole cushioning, it provides superior support and durability, making it perfect for casual wear and light activities. The suede and mesh upper offer a stylish look while ensuring breathability. Its rubber outsole enhances traction, ensuring reliable performance on different surfaces. Whether you're strolling through the city or heading to work, the 574 delivers classic style with modern comfort.",
+      "image": "assets/shoe5.png",
+      "size": [39, 40, 41, 42, 43, 44],
+      "color": ["blue", "white", "black"]
+    },
+    {
+      "id": 6,
+      "name": "Asics Gel-Kayano 28",
+      "brand": "Asics",
+      "price": 130.99,
+      "description": "The Asics Gel-Kayano 28 is built for runners who need enhanced stability and exceptional cushioning. Featuring the renowned GEL technology in both the rearfoot and forefoot, it absorbs shock and reduces stress on joints. The Dynamic DuoMax support system enhances stability, while the engineered mesh upper provides superior breathability. The FlyteFoam midsole ensures a responsive feel, making this shoe an excellent option for long-distance running. Whether you're training for a race or seeking maximum comfort, the Gel-Kayano 28 has you covered.",
+      "image": "assets/shoe6.png",
+      "size": [40, 41, 42, 43, 44, 45],
+      "color": ["white", "blue", "orange"]
+    },
+    {
+      "id": 7,
+      "name": "Under Armour HOVR Phantom 2",
+      "brand": "Under Armour",
+      "price": 125.49,
+      "description": "The Under Armour HOVR Phantom 2 is designed to provide next-level comfort with its HOVR cushioning technology. This innovative midsole minimizes impact and returns energy to keep your feet feeling light and supported. The compression mesh Energy Web enhances responsiveness, while the soft, stretchy knit upper delivers a sock-like fit. Featuring a unique lacing system for secure lockdown and a rubber outsole for durability, the HOVR Phantom 2 is perfect for runners and active individuals looking for a blend of style and performance.",
+      "image": "assets/shoe7.png",
+      "size": [40, 41, 42, 43, 44, 45],
+      "color": ["black", "red", "gray"]
+    }
+  ]
+}
